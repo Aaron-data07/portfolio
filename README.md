@@ -17,6 +17,11 @@ Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual 
 Education
 Memorial University of Newfoundland, Saint John’s, NL
 
+![pic](/portfolio/assets/profesionalpic.jpeg)
+
+
+
+
 Masters in Applied Statistics (Expected August 2024)
 Relevant Coursework: Computational Statistics, Regression Analysis, Inference Statistics
 Macalester College, Saint Paul, MN
