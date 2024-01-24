@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual 
 Education
 Memorial University of Newfoundland, Saint John’s, NL
 
-![pic](/portfolio/assets/profesionalpic.jpeg)
+![pic](/portfolio/assets/professionalpic.jpeg)
 
 
 
