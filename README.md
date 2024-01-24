@@ -1,4 +1,4 @@
-# Data Scientist/Machine Learning/AI
+# Data Scientist|Machine Learning|AI|Python|R
 
 ### Portfolio
 Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual pursuing a Masters in Applied Statistics at Memorial University of Newfoundland. I have a strong academic background, complemented by practical experience in data science and statistical analysis. Here you'll find a summary of my education, work experience, and skills.Project 1
