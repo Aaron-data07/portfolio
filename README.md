@@ -1,37 +1,17 @@
-# haroonportfolio.github.io
+# Data Scientist/Machine Learning/AI
 
-
-# Data Scientist
-
-### Work Expeirecne
-
-professionalpic.jpeg
+### Portfolio
+Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual pursuing a Masters in Applied Statistics at Memorial University of Newfoundland. I have a strong academic background, complemented by practical experience in data science and statistical analysis. Here you'll find a summary of my education, work experience, and skills.Project 1
 
 ### Projects
 
-Project 1
-
-Aaron Malik's Portfolio
-Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual pursuing a Masters in Applied Statistics at Memorial University of Newfoundland. I have a strong academic background, complemented by practical experience in data science and statistical analysis. Here you'll find a summary of my education, work experience, and skills.
-
-Education
-Memorial University of Newfoundland, Saint John’s, NL
-
-![pic](/portfolio/assets/professionalpic.jpeg)
 
 
 
 
-Masters in Applied Statistics (Expected August 2024)
-Relevant Coursework: Computational Statistics, Regression Analysis, Inference Statistics
-Macalester College, Saint Paul, MN
 
-Bachelor of Arts (May 2019)
-Majors: Economics, Applied Mathematics & Statistics
-GPA: 3.33/4.00
-Awards: 100% merit-based scholarship, Deans List: Fall 2016
-Relevant Coursework: Econometrics, Statistical Modeling, Machine Learning, Survival Analysis, Correlated Data, Investment Banking, Microeconomic & Macroeconomic Analysis, Economic Development, Financial Accounting
-Work Experience
+
+### Work Experience
 CHIC, Data Scientist - Growth, Lahore, Pakistan
 May 2022 - August 2023
 
@@ -52,6 +32,24 @@ Built predictive models to increase the likelihood of buying insurance products 
 Identified the need for a new software and took initiative to implement Octoparse company-wide, reducing the time spent on data mining by approximately 40%.
 Textbook Media Press, Reviser, Saint Paul, MN
 December 2018 - May 2019
+
+
+
+### Education
+Memorial University of Newfoundland, Saint John’s, NL
+Masters in Applied Statistics (Expected August 2024)
+Relevant Coursework: Computational Statistics, Regression Analysis, Inference Statistics
+Macalester College, Saint Paul, MN
+
+Bachelor of Arts (May 2019)
+Majors: Economics, Applied Mathematics & Statistics
+GPA: 3.33/4.00
+Awards: 100% merit-based scholarship, Deans List: Fall 2016
+Relevant Coursework: Econometrics, Statistical Modeling, Machine Learning, Survival Analysis, Correlated Data, Investment Banking, Microeconomic & Macroeconomic Analysis, Economic Development, Financial Accounting
+
+
+
+![pic](/portfolio/assets/professionalpic.jpeg)
 
 Proofread Principles of Economics by Timothy Taylor and included information and examples for a more relevant edition.
 Updated figures, graphs, and tables corresponding to the year 2018 for a revised edition.
