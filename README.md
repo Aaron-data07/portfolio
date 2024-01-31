@@ -94,4 +94,4 @@ Thank you for visiting my GitHub portfolio!
 
 
 
-![pic](/portfolio/assets/professionalpic.jpeg)
+![pic](/portfolio/assets/professionalpic.jpeg)(https://www.linkedin.com/in/mharoon123/)
