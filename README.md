@@ -5,6 +5,9 @@ Welcome to my GitHub portfolio! I am a dedicated and detail-oriented individual 
 
 ## Projects
 
+### Customer Churn Analysis of a telecommunication company
+
+The detailed github code, data and the pdf of analysis can be found [here](https://github.com/HaroonAIML/Churn-Logistic).
 
 
 
