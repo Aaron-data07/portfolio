@@ -70,11 +70,11 @@ Attended weekly meetings to learn about financial investment concepts.
 Assisted in managing a $54,000 stock portfolio.
 
 ## Education
-Memorial University of Newfoundland, Saint John’s, NL
+**Memorial University of Newfoundland, Saint John’s, NL**
 Masters in Applied Statistics (Expected August 2024)
 Relevant Coursework: Computational Statistics, Regression Analysis, Inference Statistics
-Macalester College, Saint Paul, MN
 
+**Macalester College, Saint Paul, MN**
 Bachelor of Arts (May 2019)
 Majors: Economics, Applied Mathematics & Statistics
 GPA: 3.33/4.00
@@ -83,10 +83,10 @@ Relevant Coursework: Econometrics, Statistical Modeling, Machine Learning, Survi
 
 ## Skills & Interests
  
-Computers: Python, R, SAS, Excel, Stata, Microsoft Office Suite, Mathematica, Adobe Illustrator & Photoshop.
-Languages: Fluent in English, Urdu, Hindi, Punjabi and Saraiki.
-Interests: Stand-up Comedy, Cricket, Football, Reading, Gardening, Cooking.
-Feel free to connect with me on LinkedIn!
+**Computers**: Python, R, SAS, Excel, Stata, Microsoft Office Suite, Mathematica, Adobe Illustrator & Photoshop.
+**Languages**: Fluent in English, Urdu, Hindi, Punjabi and Saraiki.
+**Interests**: Stand-up Comedy, Cricket, Football, Reading, Gardening, Cooking.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mharoon123/)!
 
 Thank you for visiting my GitHub portfolio!
 
