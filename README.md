@@ -86,6 +86,7 @@ Relevant Coursework: Econometrics, Statistical Modeling, Machine Learning, Survi
 **Computers**: Python, R, SAS, Excel, Stata, Microsoft Office Suite, Mathematica, Adobe Illustrator & Photoshop.
 **Languages**: Fluent in English, Urdu, Hindi, Punjabi and Saraiki.
 **Interests**: Stand-up Comedy, Cricket, Football, Reading, Gardening, Cooking.
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mharoon123/)!
 
 Thank you for visiting my GitHub portfolio!
