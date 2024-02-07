@@ -87,7 +87,7 @@ Relevant Coursework: Econometrics, Statistical Modeling, Machine Learning, Survi
 **Languages**: Fluent in English, Urdu, Hindi, Punjabi and Saraiki.
 **Interests**: Stand-up Comedy, Cricket, Football, Reading, Gardening, Cooking.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mharoon123/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aarondata/)!
 
 Thank you for visiting my GitHub portfolio!
 
